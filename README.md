@@ -2,7 +2,7 @@
 
 Airbnb Searching System
 
-1. The program is run under Python language, just simply run the python file in terminal and it will start.
+1. The program is compiled under Python language, just simply run the python file in terminal and it will start.
 2. You will see the main menu once you start runnig it, enter 1 for going into our "Search Listings" and "Book Listing" functions
 	i. For vaild searhing, simply enter all dates during year 2016-2017 and some proper price range.
 	ii. For invaild searching, system will ask for user input all the messages again.
