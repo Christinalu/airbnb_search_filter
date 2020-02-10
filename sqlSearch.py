@@ -10,7 +10,7 @@ flag = 1
 while flag:
     #######################################################################
     # Main menu
-    conn = pyodbc.connect('driver={SQL Server};Server=cypress.csil.sfu.ca;Trusted_Connection=yes;uid=s_xza172;pwd=MG3fYEgmMP3t7R3n')
+    conn = pyodbc.connect('driver={SQL Server};Server=cypress.csil.sfu.ca;Trusted_Connection=yes;uid=uid;pwd=password')
     cur = conn.cursor()
     time.sleep(1)
     print('\n\t\t\t\tMain Menu\n')
